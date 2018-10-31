@@ -1,3 +1,5 @@
+По курсу https://monsterlessons.com/project/categories/redux
+
 #Что изучается:
 
 Исользование с redux
